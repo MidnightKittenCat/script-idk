@@ -1,16 +1,16 @@
 
-if identifyexecutor and identifyexecutor() == "Fluxus" then
+if identifyexecutor() == "Fluxus" then
 print("Fluxus")
 end
 
-if identifyexecutor and identifyexecutor() == "PRXL" then
+if identifyexecutor() == "PRXL" then
 print("PRXL")
 end
 
-if identifyexecutor and identifyexecutor() == "Prxl" then
+if identifyexecutor() == "Prxl" then
 print("Prxl")
 end
 
-if identifyexecutor and identifyexecutor() == "prxl" then
+if identifyexecutor() == "prxl" then
   print("prxl")
 end
