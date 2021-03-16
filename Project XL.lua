@@ -1,4 +1,3 @@
-print(getexecutorname())
 
 if identifyexecutor and identifyexecutor() == "Fluxus" then
 print("Fluxus")
