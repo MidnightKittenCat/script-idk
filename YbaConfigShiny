@@ -1,4 +1,3 @@
---hi im cool
 repeat wait() until game:IsLoaded()
 
 getgenv().Min = 8 -- min players
@@ -23,6 +22,7 @@ getgenv().Farming = {
 }
 
 getgenv().Shinies = {
+
 ["King of The End"] = false; -- King Crimson
 ["Manga Crimson"] = false; -- King Crimson
 ["The Waifu"] = false; -- The world
@@ -59,7 +59,7 @@ getgenv().Shinies = {
 ["Charmy Green"] = false; -- Star Platinum
 ["Action-Figure Platinum"] = false; -- Star Platinum
 ["Vinegar Crimson"] = false; -- King Crimson
-["OVA Platinum"] = true; -- Star Platinum
+["OVA Platinum"] = false; -- Star Platinum
 ["Mintsnake"] = false; -- White Snake
 ["Uber Spy"] = false; -- Silver Chariot
 ["Tentacle Purple"] = false; -- Heirophant Green
@@ -96,8 +96,8 @@ getgenv().Shinies = {
 ["Deimos Snake"] = false; -- Whitesnake
 ["Mr. Joestar"] = false; -- Mr President
 ["Golden Frieza"] = false; -- Red Hot Chilli Pepper
-["MCU Spider-Man"] = false; -- Stone Free
-["Comic Venom Spider-Man"] = false; -- Stone Free
-["Venom"] = false; -- Stone Free
-["Stone Platinum"] = false; -- Stone Free
+["MCU Spider-Man"] = true; -- Stone Free
+["Comic Venom Spider-Man"] = true; -- Stone Free
+["Venom"] = true; -- Stone Free
+["Stone Platinum"] = true; -- Stone Free
 }
